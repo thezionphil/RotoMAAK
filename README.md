@@ -2,5 +2,5 @@ RotoMAAK
 ========
 
 Rotational Casting Machine
-Designed by Mark Vandiepenbos circa 2013
+Designed by Mark VanDiepenbos circa 2013
 
